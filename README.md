@@ -19,7 +19,7 @@ A Python/Pygame implementation of CHIP-8
 ### Running the CHIP-8 Emulator
 
 * cd into the directory of the chip8.py-file using the command line
-* Enter: python chip8.py "ROMFILE"
+* Enter `python chip8.py "ROMFILE"`
   - Replace the text in the quotes with your choise of rom!!
 
 ## Notes
