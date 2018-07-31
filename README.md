@@ -27,7 +27,7 @@ A Python/Pygame implementation of CHIP-8
   - The rom can be found at https://slack-files.com/T3CH37TNX-F3RF5KT43-0fb93dbd1f
   - Documentation for the rom can be found at https://slack-files.com/T3CH37TNX-F3RKEUKL4-b05ab4930d
 * Despite passing the tests, I have found that at least the Space Invaders rom does not run properly,
-  most roms do run perfectly though
+  most roms do run (close to) perfect though
 
 ## Built with
 * Python 3.7
