@@ -1,5 +1,6 @@
 # PyCHIP-8
 A Python/Pygame implementation of CHIP-8
+![CHIP-8 BRIX](https://i.imgur.com/qz2LHmf.gifv)
 
 ## Getting started
 
