@@ -22,18 +22,18 @@ A Python/Pygame implementation of CHIP-8
 * Enter: python chip8.py "ROMFILE"
   - Replace the text in the quotes with your choise of rom!!
 
-### Notes
+## Notes
 * The program has been tested with BC_test.ch8-ROM by BestCoder
   - The rom can be found at https://slack-files.com/T3CH37TNX-F3RF5KT43-0fb93dbd1f
   - Documentation for the rom can be found at https://slack-files.com/T3CH37TNX-F3RKEUKL4-b05ab4930d
 * Despite passing the tests, I have found that at least the Space Invaders rom does not run properly,
   most roms do run perfectly though
 
-### Built with
+## Built with
 * Python 3.7
 * Pygame
 
-### Acknowledgments
+## Acknowledgments
 * http://omokute.blogspot.com/2012/06/emulation-basics-write-your-own-chip-8.html
 * http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/
 * http://mattmik.com/files/chip8/mastering/chip8.html
