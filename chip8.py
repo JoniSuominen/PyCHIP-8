@@ -591,10 +591,6 @@ class chip8():
                         self.key_inputs[self.keyset[event.key]] = 0
 
             self.cycle()
-
-            pygame.time.delay(2)
-
-
             if self.draw:
                 self.drawScreen()
 
