@@ -17,7 +17,7 @@ A Python/Pygame implementation of CHIP-8
 * ROMs: https://www.zophar.net/pdroms/chip8.html
 
 ### Running the CHIP-8 Emulator
-
+* clone the directory
 * cd into the directory of the chip8.py-file using the command line
 * Enter `python chip8.py "ROMFILE"`
   - Replace the text in the quotes with your choise of rom!!
